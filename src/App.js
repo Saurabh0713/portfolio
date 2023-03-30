@@ -8,7 +8,7 @@ import About from './Components/About';
 
 function App() {
   return (
-    <div>
+    <div className='relative'>
       <Header/>
       <Home/>
       <About/>
