@@ -4,7 +4,7 @@ import { IoLogoLinkedin, IoLogoGithub, IoMailSharp } from "react-icons/io5";
 
 export default function Home() {
   return (
-    <div className="text-center text-neutral-800  bg-gradient-to-r from-stone-600 to-red-500  h-screen flex items-center justify-around max-md:flex-col max-md:h-max max-md:py-4 max-md:bg-gradient-to-b from-stone-600 to-red-500" id="home">
+    <div className="text-center text-neutral-800  bg-gradient-to-r from-stone-600 to-red-500  h-screen flex items-center justify-around max-md:flex-col max-md:h-max max-md:py-4 max-md:bg-gradient-to-b from-stone-600 to-red-500 mt-14" id="home">
       <div className="w-1/2 max-md:w-11/12 flex flex-col items-end max-md:items-center">
         <h1 className="mb-6 max-md:my-4 w-2/3 text-5xl font-bold">
           Hello! I Am
