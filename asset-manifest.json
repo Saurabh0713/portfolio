@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.66731d86.css",
-    "main.js": "/portfolio/static/js/main.a641641c.js",
+    "main.js": "/portfolio/static/js/main.62c4bcd1.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/i7.png": "/portfolio/static/media/i7.9605df40eab4000f92eb.png",
     "static/media/youtube.jpg": "/portfolio/static/media/youtube.140744896d2e093eb163.jpg",
@@ -12,18 +12,20 @@
     "static/media/playstation.jpg": "/portfolio/static/media/playstation.5b530d71923d953ef3bc.jpg",
     "static/media/textutils.jpg": "/portfolio/static/media/textutils.de420103bc6eec7ce0b6.jpg",
     "static/media/game.jpg": "/portfolio/static/media/game.b28c9541d3d6e03ada0a.jpg",
+    "static/media/sass.png": "/portfolio/static/media/sass.a2591e27bc692562995c.png",
     "static/media/hc.png": "/portfolio/static/media/hc.69b7c3d9514af0c7f503.png",
     "static/media/b.png": "/portfolio/static/media/b.1d5ee963f4e2d0f0d364.png",
     "static/media/r.png": "/portfolio/static/media/r.20adfb35ae6a6e5817bf.png",
     "static/media/js.png": "/portfolio/static/media/js.7f8751632b42a9932c15.png",
+    "static/media/jq.png": "/portfolio/static/media/jq.0ce0c046113a3f4a73bc.png",
     "static/media/node-js.webp": "/portfolio/static/media/node-js.cbe1d5446b6c01a4bb27.webp",
     "index.html": "/portfolio/index.html",
     "main.66731d86.css.map": "/portfolio/static/css/main.66731d86.css.map",
-    "main.a641641c.js.map": "/portfolio/static/js/main.a641641c.js.map",
+    "main.62c4bcd1.js.map": "/portfolio/static/js/main.62c4bcd1.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66731d86.css",
-    "static/js/main.a641641c.js"
+    "static/js/main.62c4bcd1.js"
   ]
 }
