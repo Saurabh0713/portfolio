@@ -19,15 +19,15 @@ export default function About() {
         <p>Technical Skills - React Js, Java Script, jQuery, Html, Css, Sass, Jsx, Bootstrap, Tailwind, Figma</p>
       </div>
         <div className='flex justify-center items-center flex-wrap h-56 max-md:py-4'>
-        <img className='w-24 max-md:w-16 m-2 animate-spin' src={r}></img>
         <img className='w-24 max-md:w-16 m-2 animate-pulse' src={b}></img>
-        <img className='w-24 max-md:w-16 m-2 animate-bounce' src={hc}></img>
+        <img className='w-24 max-md:w-16 m-2 animate-pulse' src={hc}></img>
         <img className='w-24 max-md:w-16 m-2 animate-bounce' src={js}></img>
         <img className='w-24 max-md:w-16 m-2 animate-bounce' src={njs}></img>
-        <img className='w-24 max-md:w-16 m-2 animate-pulse' src={t}></img>
-        <img className='w-24 max-md:w-16 m-2 animate-pulse' src={g}></img>
-        <img className='w-24 max-md:w-16 m-2 animate-pulse' src={sass}></img>
+        <img className='w-24 max-md:w-16 m-2 animate-spin' src={r}></img>
         <img className='w-24 max-md:w-16 m-2 animate-bounce' src={jq}></img>
+        <img className='w-24 max-md:w-16 m-2 animate-bounce' src={g}></img>
+        <img className='w-24 max-md:w-16 m-2 animate-pulse' src={sass}></img>
+        <img className='w-24 max-md:w-16 m-2 animate-pulse' src={t}></img>
         </div>
       </div>
     </div>
