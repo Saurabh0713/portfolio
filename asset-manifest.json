@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e7b0ea8a.css",
-    "main.js": "/portfolio/static/js/main.072c1b7e.js",
+    "main.js": "/portfolio/static/js/main.07f43b27.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/i7.png": "/portfolio/static/media/i7.9605df40eab4000f92eb.png",
     "static/media/youtube.jpg": "/portfolio/static/media/youtube.140744896d2e093eb163.jpg",
     "static/media/netflix.jpg": "/portfolio/static/media/netflix.670bd74d35003aa301da.jpg",
     "static/media/spotify.jpg": "/portfolio/static/media/spotify.569af99f2d8f1ba2262d.jpg",
-    "static/media/softdrinks.jpg": "/portfolio/static/media/softdrinks.f392d00582eade9d0182.jpg",
+    "static/media/softdrinks2.jpg": "/portfolio/static/media/softdrinks2.d41b92b5b14b83191451.jpg",
     "static/media/login.jpg": "/portfolio/static/media/login.a43495da3f1f72064bc0.jpg",
     "static/media/ecom.jpg": "/portfolio/static/media/ecom.1543966d5a57f2453700.jpg",
     "static/media/playstation.jpg": "/portfolio/static/media/playstation.5b530d71923d953ef3bc.jpg",
@@ -22,11 +22,11 @@
     "static/media/node-js.webp": "/portfolio/static/media/node-js.cbe1d5446b6c01a4bb27.webp",
     "index.html": "/portfolio/index.html",
     "main.e7b0ea8a.css.map": "/portfolio/static/css/main.e7b0ea8a.css.map",
-    "main.072c1b7e.js.map": "/portfolio/static/js/main.072c1b7e.js.map",
+    "main.07f43b27.js.map": "/portfolio/static/js/main.07f43b27.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7b0ea8a.css",
-    "static/js/main.072c1b7e.js"
+    "static/js/main.07f43b27.js"
   ]
 }
