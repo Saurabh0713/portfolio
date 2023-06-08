@@ -9,6 +9,7 @@ import playstation from '../Image/playstation.jpg'
 import softdrinks from '../Image/softdrinks.jpg'
 import spotify from '../Image/spotify.jpg'
 import youtube from '../Image/youtube.jpg'
+import ecom from '../Image/ecom.jpg'
 
 export default function MyProjects() {
   return (
@@ -18,6 +19,7 @@ export default function MyProjects() {
             <div className='flex flex-wrap justify-center items-center w-full bg-gradient-to-r from-gray-700 to-gray-900  rounded-b-xl'>
               
             <ProjectComponent projectName={MyProjectsArray[0].projectName} projectImg={textutils} liveDemo={MyProjectsArray[0].liveLink} sourceCode={MyProjectsArray[0].sourceCode}/>
+            <ProjectComponent projectName={MyProjectsArray[8].projectName} projectImg={ecom} liveDemo={MyProjectsArray[8].liveLink} sourceCode={MyProjectsArray[8].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[1].projectName} projectImg={softdrinks} liveDemo={MyProjectsArray[1].liveLink} sourceCode={MyProjectsArray[1].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[2].projectName} projectImg={login} liveDemo={MyProjectsArray[2].liveLink} sourceCode={MyProjectsArray[2].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[4].projectName} projectImg={playstation} liveDemo={MyProjectsArray[4].liveLink} sourceCode={MyProjectsArray[4].sourceCode}/>
