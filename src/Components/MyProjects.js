@@ -10,6 +10,7 @@ import softdrinks from '../Image/softdrinks2.jpg'
 import spotify from '../Image/spotify.jpg'
 import youtube from '../Image/youtube.jpg'
 import ecom from '../Image/ecom.jpg'
+import tic from '../Image/tic.jpg'
 
 export default function MyProjects() {
   return (
@@ -27,6 +28,7 @@ export default function MyProjects() {
             <ProjectComponent projectName={MyProjectsArray[5].projectName} projectImg={youtube} liveDemo={MyProjectsArray[5].liveLink} sourceCode={MyProjectsArray[5].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[6].projectName} projectImg={spotify} liveDemo={MyProjectsArray[6].liveLink} sourceCode={MyProjectsArray[6].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[7].projectName} projectImg={netflix} liveDemo={MyProjectsArray[7].liveLink} sourceCode={MyProjectsArray[7].sourceCode}/>
+            <ProjectComponent projectName={MyProjectsArray[9].projectName} projectImg={tic} liveDemo={MyProjectsArray[9].liveLink} sourceCode={MyProjectsArray[9].sourceCode}/>
 
                 {/* {MyProjectsArray.map((item)=>(
                <ProjectComponent projectName={item.projectName} projectImg={item.projectImage} liveDemo={item.liveLink} sourceCode={item.sourceCode}/>

@@ -54,6 +54,12 @@ export const MyProjectsArray = [
         projectImage:"./Image/ecom.jpg",
         liveLink:"https://saurabh0713.github.io/cls-e-com/",
         sourceCode:"https://github.com/Saurabh0713/cls-e-com"
+    },
+    {
+        projectName:"TIC TAC TOE",
+        projectImage:"./Image/tic.jpg",
+        liveLink:"https://saurabh0713.github.io/ZEROCROSS/",
+        sourceCode:"https://github.com/Saurabh0713/ZEROCROSS"
     }
 
 ]
