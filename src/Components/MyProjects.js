@@ -15,7 +15,7 @@ import tic from '../Image/tic.jpg'
 export default function MyProjects() {
   return (
     <div className='h-max flex justify-center items-center bg-gradient-to-b from-stone-400 to-stone-200' id='myProjects'>
-        <div className='container my-10 h-max max-md:rounded bg-gray-800 drop-shadow-xl rounded-xl'>
+        <div className='container my-10 pb-2 h-max max-md:rounded bg-gray-800 drop-shadow-xl rounded-xl'>
             <h3 className='text-center my-4 text-4xl text-neutral-100'>My Projects</h3>
             <div className='flex flex-wrap justify-center items-center w-full bg-gradient-to-r from-gray-700 to-gray-900  rounded-b-xl'>
               
@@ -25,10 +25,10 @@ export default function MyProjects() {
             <ProjectComponent projectName={MyProjectsArray[2].projectName} projectImg={login} liveDemo={MyProjectsArray[2].liveLink} sourceCode={MyProjectsArray[2].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[4].projectName} projectImg={playstation} liveDemo={MyProjectsArray[4].liveLink} sourceCode={MyProjectsArray[4].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[3].projectName} projectImg={game} liveDemo={MyProjectsArray[3].liveLink} sourceCode={MyProjectsArray[3].sourceCode}/>
+            <ProjectComponent projectName={MyProjectsArray[9].projectName} projectImg={tic} liveDemo={MyProjectsArray[9].liveLink} sourceCode={MyProjectsArray[9].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[5].projectName} projectImg={youtube} liveDemo={MyProjectsArray[5].liveLink} sourceCode={MyProjectsArray[5].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[6].projectName} projectImg={spotify} liveDemo={MyProjectsArray[6].liveLink} sourceCode={MyProjectsArray[6].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[7].projectName} projectImg={netflix} liveDemo={MyProjectsArray[7].liveLink} sourceCode={MyProjectsArray[7].sourceCode}/>
-            <ProjectComponent projectName={MyProjectsArray[9].projectName} projectImg={tic} liveDemo={MyProjectsArray[9].liveLink} sourceCode={MyProjectsArray[9].sourceCode}/>
 
                 {/* {MyProjectsArray.map((item)=>(
                <ProjectComponent projectName={item.projectName} projectImg={item.projectImage} liveDemo={item.liveLink} sourceCode={item.sourceCode}/>
