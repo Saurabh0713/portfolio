@@ -11,6 +11,9 @@ import spotify from '../Image/spotify.jpg'
 import youtube from '../Image/youtube.jpg'
 import ecom from '../Image/ecom.jpg'
 import tic from '../Image/tic.jpg'
+import cal from '../Image/calculator.jpg'
+import clock from '../Image/clock.jpg'
+import weather from '../Image/weather.jpg'
 
 export default function MyProjects() {
   return (
@@ -29,6 +32,9 @@ export default function MyProjects() {
             <ProjectComponent projectName={MyProjectsArray[5].projectName} projectImg={youtube} liveDemo={MyProjectsArray[5].liveLink} sourceCode={MyProjectsArray[5].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[6].projectName} projectImg={spotify} liveDemo={MyProjectsArray[6].liveLink} sourceCode={MyProjectsArray[6].sourceCode}/>
             <ProjectComponent projectName={MyProjectsArray[7].projectName} projectImg={netflix} liveDemo={MyProjectsArray[7].liveLink} sourceCode={MyProjectsArray[7].sourceCode}/>
+            <ProjectComponent projectName={MyProjectsArray[10].projectName} projectImg={weather} liveDemo={MyProjectsArray[10].liveLink} sourceCode={MyProjectsArray[10].sourceCode}/>
+            <ProjectComponent projectName={MyProjectsArray[11].projectName} projectImg={cal} liveDemo={MyProjectsArray[11].liveLink} sourceCode={MyProjectsArray[11].sourceCode}/>
+            <ProjectComponent projectName={MyProjectsArray[12].projectName} projectImg={clock} liveDemo={MyProjectsArray[12].liveLink} sourceCode={MyProjectsArray[12].sourceCode}/>
 
                 {/* {MyProjectsArray.map((item)=>(
                <ProjectComponent projectName={item.projectName} projectImg={item.projectImage} liveDemo={item.liveLink} sourceCode={item.sourceCode}/>

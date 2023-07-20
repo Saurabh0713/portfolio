@@ -60,6 +60,24 @@ export const MyProjectsArray = [
         projectImage:"./Image/tic.jpg",
         liveLink:"https://saurabh0713.github.io/ZEROCROSS/",
         sourceCode:"https://github.com/Saurabh0713/ZEROCROSS"
+    },
+    {
+        projectName:"WEATHER (responsive)",
+        projectImage:"./Image/weather.jpg",
+        liveLink:"https://saurabh0713.github.io/Weather/",
+        sourceCode:"https://github.com/Saurabh0713/Weather"
+    },
+    {
+        projectName:"CALCULATOR (responsive)",
+        projectImage:"./Image/calculator.jpg",
+        liveLink:"https://saurabh0713.github.io/CALCULATOR/",
+        sourceCode:"https://github.com/Saurabh0713/CALCULATOR"
+    },
+    {
+        projectName:"CLOCK (responsive)",
+        projectImage:"./Image/clock.jpg",
+        liveLink:"https://saurabh0713.github.io/CLOCK/",
+        sourceCode:"https://github.com/Saurabh0713/CLOCK"
     }
 
 ]
