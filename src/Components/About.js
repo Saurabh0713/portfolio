@@ -11,7 +11,7 @@ import jq from '../Image/logo/jq.png'
 
 export default function About() {
   return (
-    <div className='h-screen bg-slate-600 flex justify-center items-center' id='about'>
+    <div className='h-screen bg-slate-700 flex justify-center items-center' id='about'>
       <div className='bg-neutral-200 w-4/5 h-max rounded-2xl drop-shadow-xl flex flex-col justify-center items-center'>
       <div className='bg-neutral-100 rounded-xl drop-shadow-xl p-4 w-1/2 text-center max-md:h-1/2 max-md:w-full'>
         <h2 className='text-5xl my-3'>About me</h2>
@@ -21,11 +21,11 @@ export default function About() {
         <div className='flex justify-center items-center flex-wrap h-56 max-md:py-4'>
         <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={b}></img>
         <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={hc}></img>
-        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-bounce' src={js}></img>
-        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-bounce' src={njs}></img>
+        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={js}></img>
+        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={njs}></img>
         <img className='w-24 max-md:w-16 md:m-2 m-1 animate-spin' src={r}></img>
-        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-bounce' src={jq}></img>
-        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-bounce' src={g}></img>
+        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={jq}></img>
+        <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={g}></img>
         <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={sass}></img>
         <img className='w-24 max-md:w-16 md:m-2 m-1 animate-pulse' src={t}></img>
         </div>

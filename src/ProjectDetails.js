@@ -14,7 +14,7 @@ export const MyProjectsArray = [
         sourceCode:"https://github.com/Saurabh0713/softdrinks"
     },
     {
-        projectName:"REGISTRATION PAGE (responsive)",
+        projectName:"SIGN UP (responsive)",
         projectImage:"./Image/login.jpg",
         liveLink:"https://saurabh0713.github.io/registration-form/",
         sourceCode:"https://github.com/Saurabh0713/registration-form"
