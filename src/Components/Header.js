@@ -4,7 +4,7 @@ export default function () {
   return (
 <header className='fixed top-0 left-0 right-0 z-20'>
   <nav
-    class="flex w-full items-center justify-between bg-white py-2 text-neutral-600 shadow-lg hover:text-red-200 focus:text-neutral-700 dark:bg-neutral-600 dark:text-neutral-200 md:flex-wrap md:justify-start "
+    class="flex w-full items-center justify-between bg-white py-2 text-neutral-600 shadow-lg hover:text-blue-400 focus:text-neutral-700 dark:bg-neutral-600 dark:text-neutral-200 md:flex-wrap md:justify-start "
     data-te-navbar-ref>
     <div class=" flex w-full flex-wrap items-center justify-between px-6">
       <div class="flex items-center">
