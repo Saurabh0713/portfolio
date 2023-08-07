@@ -51,9 +51,9 @@ export const MyProjectsArray = [
     },
     {
         projectName:"E-COMMERCE (responsive)",
-        projectImage:"./Image/ecom.jpg",
-        liveLink:"https://saurabh0713.github.io/cls-e-com/",
-        sourceCode:"https://github.com/Saurabh0713/cls-e-com"
+        projectImage:"./Image/ecomm.jpg",
+        liveLink:"https://ecommerce-390e5.web.app/",
+        sourceCode:"https://github.com/Saurabh0713/e-shopping"
     },
     {
         projectName:"TIC TAC TOE (responsive)",
