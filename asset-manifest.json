@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.807758f7.css",
-    "main.js": "/portfolio/static/js/main.86eaf4d4.js",
+    "main.js": "/portfolio/static/js/main.5aabc573.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/i7.png": "/portfolio/static/media/i7.9605df40eab4000f92eb.png",
     "static/media/youtube.jpg": "/portfolio/static/media/youtube.140744896d2e093eb163.jpg",
     "static/media/netflix.jpg": "/portfolio/static/media/netflix.670bd74d35003aa301da.jpg",
+    "static/media/ecomm.jpg": "/portfolio/static/media/ecomm.c3285ac4e917a498e4ce.jpg",
     "static/media/spotify.jpg": "/portfolio/static/media/spotify.569af99f2d8f1ba2262d.jpg",
     "static/media/softdrinks2.jpg": "/portfolio/static/media/softdrinks2.d41b92b5b14b83191451.jpg",
     "static/media/login.jpg": "/portfolio/static/media/login.a43495da3f1f72064bc0.jpg",
-    "static/media/ecom.jpg": "/portfolio/static/media/ecom.1543966d5a57f2453700.jpg",
     "static/media/playstation.jpg": "/portfolio/static/media/playstation.5b530d71923d953ef3bc.jpg",
     "static/media/weather.jpg": "/portfolio/static/media/weather.1e35435c9417e991855c.jpg",
     "static/media/textutils.jpg": "/portfolio/static/media/textutils.de420103bc6eec7ce0b6.jpg",
@@ -26,11 +26,11 @@
     "static/media/node-js.webp": "/portfolio/static/media/node-js.cbe1d5446b6c01a4bb27.webp",
     "index.html": "/portfolio/index.html",
     "main.807758f7.css.map": "/portfolio/static/css/main.807758f7.css.map",
-    "main.86eaf4d4.js.map": "/portfolio/static/js/main.86eaf4d4.js.map",
+    "main.5aabc573.js.map": "/portfolio/static/js/main.5aabc573.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.807758f7.css",
-    "static/js/main.86eaf4d4.js"
+    "static/js/main.5aabc573.js"
   ]
 }
